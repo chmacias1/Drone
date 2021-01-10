@@ -1,4 +1,12 @@
 command
 takeoff
 delay 5
+up 25
+left 50
+flip l
+right 100
+flip r
+left 50
+flip f
+delay 5
 land
