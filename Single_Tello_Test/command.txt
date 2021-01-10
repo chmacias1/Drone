@@ -1,3 +1,20 @@
+'''
+List of Tello Commands per SDK Documentation
+CONTROL COMMANDS
+up      x Moves up along the Zed axis
+down    x Moves down along the Zed axis
+left    x Moves left along the Y axis
+right   x Moves right along the Y axis
+forward x Moves forward along  X axis
+back    x Moves forward along  X axis
+cw      x Rotate clockwise 'X' degrees
+ccw     x Rotate counter-clockwise 'X' degrees
+flip    x Flip 'X' direction  ( l =left, r= right, f= forward, b= back)
+stop      Hovers mid air
+'''
+
+
+
 command
 takeoff
 delay 5
