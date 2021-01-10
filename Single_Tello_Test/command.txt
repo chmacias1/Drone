@@ -20,10 +20,10 @@ takeoff
 delay 5
 up 25
 left 50
-flip l
+ccw 180
 right 100
-flip r
+cw 180
 left 50
-flip f
+stop
 delay 5
 land
